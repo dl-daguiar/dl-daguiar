@@ -6,7 +6,7 @@
   <a href="mailto:dansilvaagr@hotmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail">
   </a>
-  <a href="https://github.com/zYasuo">
+    <a href="https://github.com/dl-daguiar">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/danilo-aguiar-97729023a/">
